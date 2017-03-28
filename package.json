@@ -1,0 +1,16 @@
+{
+	"name": "iterable-map",
+	"version": "1.0.0",
+	"description": "Lazily map an iterable.",
+	"main": "iterable-map.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/iterable-map"
+	},
+	"keywords": ["iterable", "map"],
+	"author": "rektide de la faye",
+	"license": "X11"
+}
