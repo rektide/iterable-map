@@ -3,7 +3,7 @@ function iterableMap( mapFn){
 		var
 		  iterator= iterable[Symbol.iterator](),
 		  retVal= {
-			[Symbol.iterator](){ return this }
+			[Symbol.iterator](){ return this },
 			next(){
 				var val= iterator.next()
 				val.value= mapFn( val.value)
