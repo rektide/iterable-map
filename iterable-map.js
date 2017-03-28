@@ -18,3 +18,4 @@ function iterableMap( mapFn){
 		}
 	}	
 }
+module.exports= iterableMap

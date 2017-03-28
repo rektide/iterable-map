@@ -1,6 +1,6 @@
 {
 	"name": "iterable-map",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Lazily map an iterable.",
 	"main": "iterable-map.js",
 	"scripts": {
